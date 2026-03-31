@@ -54,9 +54,9 @@ For the purposes of this case study, the data has been made available by Motivat
 
 ## Recommendations:  
 -	Promote membership more heavily in the top 3 stations used by riders : 
---	Kingsbury St & Kinzie St   
---	Navy Pier 
---	DuSable Lake Shore Dr & Monroe St.
+    - Kingsbury St & Kinzie St   
+    - Navy Pier 
+    - DuSable Lake Shore Dr & Monroe St.
 -	Companies around the most popular end stations for casuals on week days could be contacted to promote the membership scheme to commuters. 
 -	Promotional campaigns could be stepped up in the busiest months – June to October. 
 
