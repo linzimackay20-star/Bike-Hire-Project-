@@ -16,8 +16,8 @@ I therefore made the following suggestions using data driven insights to improve
 How do annual members and casual riders use Cyclistic bikes differently? These insights will be used to create a new marketing strategy to convert casual riders into annual members.
 
 ## Stakeholders & data information: 
-Lily Moreno (Director of Marketing): Responsible for developing and executing marketing campaigns and evaluating marketing ROI.
-Cyclistic Marketing Analytics Team: Responsible for collecting and analysing ride data to guide marketing strategy.
+- Lily Moreno (Director of Marketing): Responsible for developing and executing marketing campaigns and evaluating marketing ROI.
+- - Cyclistic Marketing Analytics Team: Responsible for collecting and analysing ride data to guide marketing strategy.
 Cyclistic Executive Team: Responsible for approving strategic initiatives that support long-term company growth.
 
 For the purposes of this case study, the data has been made available by Motivate International Inc. (under this license.) This is public data therefore data-privacy issues prohibit the usage of riders’ personally identifiable information. 
