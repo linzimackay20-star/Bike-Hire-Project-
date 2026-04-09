@@ -33,7 +33,7 @@ For the purposes of this case study, the data has been made available by Motivat
 ## Data cleaning:
 -	Downloaded all relevant csv files (12x monthly spreadsheets) then used R to combine these into one merged database for the full year. 
 -	Made all blanks NA so that they would still be counted. 
--	Formatted the the date/time format correctly and ensured they would show in the correct order for future analysis and visualisation. 
+-	Formatted the date/time format correctly and ensured they would show in the correct order for future analysis and visualisation. 
 -	Checked all column names were formatted correctly. 
 -	Reduced all decimal places to 2 to make data easier to read.
 -	Checked for duplicate entries that could be removed but there weren’t any. 
